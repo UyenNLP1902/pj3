@@ -69,6 +69,7 @@ Complete a month cost analysis of each Azure resource to give an estimate total 
 | Azure Function App |    Consumption  |    $0.00     |
 | Azure Storage      |     Basic       |    $0.25     |
 
+Total: $25.62
 ## Architecture Explanation
 Azure App Service:
 + Azure App Service takes care of scaling
